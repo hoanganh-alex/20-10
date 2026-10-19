@@ -1,0 +1,14 @@
+# Node & Python
+node_modules/
+__pycache__/
+*.pyc
+
+# Local / temporary test renders and screenshots
+*.png
+!member/*.png
+*.jpg
+!member/*.jpg
+*.mp4
+font_test.html
+font_compare.html
+generate_video.py

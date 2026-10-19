@@ -1,0 +1,10 @@
+{
+  "name": "video-2010-chi-em-b3",
+  "version": "1.0.0",
+  "description": "Kỷ niệm ngày 20/10 - Chúc mừng các Chị em tập thể B3",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "start": "npx serve . -l 3000"
+  }
+}
