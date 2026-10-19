@@ -33,16 +33,16 @@
 
 ## 👑 Danh Sách 10 Đóa Hoa Lớp B3
 
-1. **Hồ Kim Ngân** – *Thanh Lịch & Tinh Tế* (Hoa Khôi #01)
-2. **Lê Đăng Hằng Nga** – *Dịu Dàng & Trí Tuệ* (Hoa Khôi #02)
-3. **Lê Nguyễn Trúc Anh** – *Năng Động & Cá Tính* (Hoa Khôi #03)
-4. **Nguyễn Hà Chi** – *Ngọt Ngào & Tươi Tắn* (Hoa Khôi #04)
-5. **Phạm Trà My** – *Thông Minh & Sắc Sảo* (Hoa Khôi #05)
-6. **Quách Anh Thư** – *Kiêu Sa & Rạng Rỡ* (Hoa Khôi #06)
-7. **Trần Thị Kim Anh** – *Duyên Dáng & Chu Đáo* (Hoa Khôi #07)
-8. **Trịnh Lê Mai** – *Hiện Đại & Bản Lĩnh* (Hoa Khôi #08)
-9. **Vũ Thuỳ Dung** – *Sweet & Highly Talented* (Hoa Khôi #09)
-10. **Đỗ Yên Nhi** – *Pure, Sweet & Joyful* (Hoa Khôi #10)
+1. **Hồ Kim Ngân** – *Thanh Lịch & Tinh Tế*
+2. **Lê Đăng Hằng Nga** – *Dịu Dàng & Trí Tuệ*
+3. **Lê Nguyễn Trúc Anh** – *Năng Động & Cá Tính*
+4. **Nguyễn Hà Chi** – *Ngọt Ngào & Tươi Tắn*
+5. **Phạm Trà My** – *Thông Minh & Sắc Sảo*
+6. **Quách Anh Thư** – *Kiêu Sa & Rạng Rỡ*
+7. **Trần Thị Kim Anh** – *Duyên Dáng & Chu Đáo*
+8. **Trịnh Lê Mai** – *Hiện Đại & Bản Lĩnh*
+9. **Vũ Thuỳ Dung** – *Sweet & Highly Talented*
+10. **Đỗ Yên Nhi** – *Pure, Sweet & Joyful*
 
 ---
 
